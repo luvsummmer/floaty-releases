@@ -14,6 +14,8 @@
 
 <img src="docs/quick-memo.png" alt="빠른 메모 창" width="560">
 
+**[최신 버전 내려받기](https://github.com/luvsummmer/floaty-releases/releases/latest)**
+
 ## 할 수 있는 것
 
 - **말풍선으로 확인하기**: 작업표시줄 위의 캐릭터가 오늘 할 일, 메모, D-day를 몇 초마다 번갈아 보여줘요. 말풍선을 누르면 해당 목록이 열려요.
