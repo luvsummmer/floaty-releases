@@ -3,14 +3,14 @@
 윈도우 바탕화면 위에 작은 캐릭터를 띄워두고, 오늘 할 일과 메모, D-day를 말풍선으로 보여주는 데스크톱 위젯이에요.
 떠오르는 생각은 단축키로 바로 적어두고 하던 일을 계속하면 돼요.
 
-<img src="character-bubble.png" alt="캐릭터와 말풍선" width="225">
+<img src="docs/character-bubble.png" alt="캐릭터와 말풍선" width="225">
 
 <p>
-  <img src="panel-todo.png" alt="할 일 탭" width="380">
-  <img src="panel-settings.png" alt="설정 탭의 말풍선 스타일" width="380">
+  <img src="docs/panel-todo.png" alt="할 일 탭" width="380">
+  <img src="docs/panel-settings.png" alt="설정 탭의 말풍선 스타일" width="380">
 </p>
 
-<img src="quick-memo.png" alt="빠른 메모 창" width="560">
+<img src="docs/quick-memo.png" alt="빠른 메모 창" width="560">
 
 **[최신 버전 내려받기](https://github.com/luvsummmer/floaty-releases/releases/latest)**
 
@@ -24,9 +24,18 @@
 - **내 폰트 쓰기**: 갖고 있는 TTF, OTF 폰트 파일을 추가하면 말풍선과 제목 글꼴로 쓸 수 있어요. 추가한 폰트는 이 PC에서만 쓰이고, 사용 범위는 각 폰트의 라이선스를 따라요.
 - **보기 설정**: 캐릭터 크기, 말풍선 크기와 스타일, 말풍선 위치, 움직임 정도를 고를 수 있어요.
 
-<img src="character-settings.png" alt="장면별 캐릭터 그림 설정" width="380">
+처음 설치하면 기본 캐릭터 오리와 개구리가 들어 있어요.
 
-위 스크린샷의 캐릭터는 직접 넣은 그림의 예시예요. 앱에는 들어 있지 않아요.
+<p>
+  <img src="docs/default-duck.png" alt="기본 캐릭터 오리" width="380">
+  <img src="docs/default-frog.png" alt="기본 캐릭터 개구리" width="380">
+</p>
+
+원하는 그림으로 바꾸면 이렇게 장면마다 다른 그림을 넣을 수 있어요.
+
+<img src="docs/character-settings.png" alt="장면별 캐릭터 그림 설정" width="380">
+
+이 스크린샷과 맨 위 스크린샷의 캐릭터는 직접 넣은 그림의 예시예요. 앱에는 들어 있지 않아요.
 - **방해하지 않기**: 영상이나 게임, 발표처럼 전체 화면 앱을 쓰는 동안에는 캐릭터와 말풍선이 숨어요.
 
 ## 설치
