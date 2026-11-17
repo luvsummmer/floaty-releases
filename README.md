@@ -4,11 +4,11 @@
 떠오르는 생각은 단축키로 바로 적어두고 하던 일을 계속하면 돼요.
 
 <p>
-  <img src="docs/panel-todo.png" alt="할 일 탭" width="380">
-  <img src="docs/panel-settings.png" alt="설정 탭의 말풍선 스타일" width="380">
+  <img src="panel-todo.png" alt="할 일 탭" width="380">
+  <img src="panel-settings.png" alt="설정 탭의 말풍선 스타일" width="380">
 </p>
 
-<img src="docs/quick-memo.png" alt="빠른 메모 창" width="560">
+<img src="quick-memo.png" alt="빠른 메모 창" width="560">
 
 **[최신 버전 내려받기](https://github.com/luvsummmer/floaty-releases/releases/latest)**
 
