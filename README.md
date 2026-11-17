@@ -1,5 +1,7 @@
 # Floaty
 
+**[최신 버전 내려받기](https://github.com/luvsummmer/floaty-releases/releases/latest)**
+
 윈도우 바탕화면 위에 작은 캐릭터를 띄워두고, 오늘 할 일과 메모, D-day를 말풍선으로 보여주는 데스크톱 위젯이에요.
 떠오르는 생각은 단축키로 바로 적어두고 하던 일을 계속하면 돼요.
 
@@ -11,8 +13,6 @@
 </p>
 
 <img src="docs/quick-memo.png" alt="빠른 메모 창" width="560">
-
-**[최신 버전 내려받기](https://github.com/luvsummmer/floaty-releases/releases/latest)**
 
 ## 할 수 있는 것
 
